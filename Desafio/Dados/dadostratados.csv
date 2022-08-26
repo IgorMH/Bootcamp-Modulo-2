@@ -1,0 +1,189 @@
+,Pais,Regiao Continental,Numero de Planos,Preco medio de 1GB,1GB mais barato,1GB mais caro,Preco medio de 1GB desde 2021,Preco medio de 1GB desde 2020,Subcontinente,Continente,Numero de Usuarios,Populacao,Velocidade media,Numero de Plano Qualitativo,Preco medio de 1GB Qualitativo,Perfil de Plano e Preco
+Afghanistan,AF,ASIA (EX. NEAR EAST),35.0,5.1,1.9,10.6,7.75,8.0,Southern Asia,Asia,4068194,37171921,5.5,Muito,Barato,MuitoBarato
+Albania,AL,EASTERN EUROPE,32.0,14.0,3.6,481.95,14.15,26.4,Southern Europe,Europe,2105339,2882740,40.48,Muito,Caro,MuitoCaro
+Algeria,DZ,NORTHERN AFRICA,20.0,2.55,0.8,11.2,3.25,25.75,Northern Africa,Africa,26350000,42228408,12.44,Pouco,Barato,PoucoBarato
+Andorra,AD,WESTERN EUROPE,7.0,37.45,5.3,325.35,47.7,62.9,Southern Europe,Europe,76095,77006,,Pouco,Caro,PoucoCaro
+Angola,AO,SUB-SAHARAN AFRICA,20.0,8.05,5.15,16.05,26.45,39.75,Middle Africa,Africa,4271053,30809787,22.59,Pouco,Barato,PoucoBarato
+Anguilla,AI,CARIBBEAN,13.0,19.25,5.55,79.55,29.6,70.6,Caribbean,Americas,12043,14731,,Pouco,Caro,PoucoCaro
+Antigua and Barbuda,AG,CARIBBEAN,39.0,22.2,7.4,210.9,35.85,63.5,Caribbean,Americas,77529,96286,,Muito,Caro,MuitoCaro
+Argentina,AR,SOUTH AMERICA,28.0,11.9,2.2,57.35,7.25,37.0,South America,Americas,33561876,44361150,20.64,Muito,Caro,MuitoCaro
+Armenia,AM,CIS (FORMER USSR),21.0,3.8,1.1,65.1,5.25,12.55,Western Asia,Asia,2043110,2951745,22.01,Pouco,Barato,PoucoBarato
+Australia,AU,OCEANIA,46.0,3.5,0.5,38.1,3.4,12.35,"Australia, New Zealand",Oceania,21159515,24898152,76.52,Muito,Barato,MuitoBarato
+Austria,AT,WESTERN EUROPE,60.0,5.85,1.2,117.15,5.4,9.4,Western Europe,Europe,7681957,8891388,56.6,Muito,Barato,MuitoBarato
+Azerbaijan,AZ,CIS (FORMER USSR),42.0,9.1,1.2,49.0,9.3,32.1,Western Asia,Asia,7763795,9949537,30.4,Muito,Barato,MuitoBarato
+Bahamas,BS,CARIBBEAN,17.0,29.9,19.95,53.7,30.1,24.7,Caribbean,Americas,336057,385637,26.77,Pouco,Caro,PoucoCaro
+Bahrain,BH,NEAR EAST,24.0,10.6,6.35,42.45,11.35,10.0,Western Asia,Asia,1431090,1569446,53.08,Pouco,Caro,PoucoCaro
+Bangladesh,BD,ASIA (EX. NEAR EAST),60.0,1.7,0.55,11.1,3.5,4.95,Southern Asia,Asia,129180000,166303498,10.43,Muito,Barato,MuitoBarato
+Barbados,BB,CARIBBEAN,11.0,33.95,24.7,321.2,46.6,79.1,Caribbean,Americas,233604,286641,,Pouco,Caro,PoucoCaro
+Belarus,BY,CIS (FORMER USSR),14.0,2.15,0.1,83.1,4.45,11.8,Eastern Europe,Europe,7048231,9452617,9.99,Pouco,Barato,PoucoBarato
+Belgium,BE,WESTERN EUROPE,37.0,26.4,7.4,106.5,24.4,15.6,Western Europe,Europe,10021242,11482178,58.65,Muito,Caro,MuitoCaro
+Belize,BZ,CENTRAL AMERICA,27.0,14.85,7.4,34.1,16.25,21.95,Central America,Americas,176400,383071,,Muito,Caro,MuitoCaro
+Benin,BJ,SUB-SAHARAN AFRICA,37.0,18.05,2.25,301.05,136.1,104.95,Western Africa,Africa,1578008,11485044,,Muito,Caro,MuitoCaro
+Bermuda,BM,NORTHERN AMERICA,21.0,99.0,20.85,500.0,143.75,188.7,Northern America,Americas,60349,62756,,Pouco,Caro,PoucoCaro
+Bhutan,BT,ASIA (EX. NEAR EAST),42.0,4.15,1.65,5.3,5.8,7.45,Southern Asia,Asia,388541,754388,,Muito,Barato,MuitoBarato
+Bolivia,BO,SOUTH AMERICA,48.0,10.9,4.35,72.2,25.45,29.95,South America,Americas,4843916,11353142,14.1,Muito,Caro,MuitoCaro
+Bosnia and Herzegovina,BA,EASTERN EUROPE,24.0,11.95,3.15,106.3,15.2,15.25,Southern Europe,Europe,2320000,3323925,28.49,Pouco,Caro,PoucoCaro
+Botswana,BW,SUB-SAHARAN AFRICA,30.0,19.6,8.15,181.15,69.35,83.95,Southern Africa,Africa,948977,2254068,24.14,Muito,Caro,MuitoCaro
+Brazil,BR,SOUTH AMERICA,58.0,4.6,0.9,13.6,5.05,17.5,South America,Americas,160010801,209469323,22.3,Muito,Barato,MuitoBarato
+Bulgaria,BG,EASTERN EUROPE,21.0,11.3,3.15,422.5,11.1,57.55,Eastern Europe,Europe,4492326,7051608,87.51,Pouco,Caro,PoucoCaro
+Burkina Faso,BF,SUB-SAHARAN AFRICA,31.0,22.6,11.75,90.3,12.35,51.3,Western Africa,Africa,3047909,19751466,,Muito,Caro,MuitoCaro
+Burundi,BI,SUB-SAHARAN AFRICA,54.0,10.5,0.45,25.6,10.6,93.95,Eastern Africa,Africa,607311,11175374,,Muito,Barato,MuitoBarato
+Cambodia,KH,ASIA (EX. NEAR EAST),23.0,4.15,0.5,10.0,7.5,50.9,South-eastern Asia,Asia,5441827,16249792,16.12,Pouco,Barato,PoucoBarato
+Cameroon,CM,SUB-SAHARAN AFRICA,44.0,4.5,3.0,36.1,13.75,8.55,Middle Africa,Africa,5580465,25216267,11.88,Muito,Barato,MuitoBarato
+Canada,CA,NORTHERN AMERICA,60.0,28.6,4.0,397.7,62.75,66.05,Northern America,Americas,33950632,37064562,75.18,Muito,Caro,MuitoCaro
+Cayman Islands,KY,CARIBBEAN,17.0,59.85,23.95,207.4,115.25,133.95,Caribbean,Americas,49906,64174,,Pouco,Caro,PoucoCaro
+Central African Republic,CF,SUB-SAHARAN AFRICA,13.0,45.15,15.05,301.05,41.25,30.15,Middle Africa,Africa,202204,4666368,,Pouco,Caro,PoucoCaro
+Chad,TD,SUB-SAHARAN AFRICA,15.0,116.65,11.05,225.8,116.65,116.65,Middle Africa,Africa,968500,15477729,,Pouco,Caro,PoucoCaro
+Chile,CL,SOUTH AMERICA,59.0,1.95,1.2,9.15,3.55,9.35,South America,Americas,14864456,18729160,22.49,Muito,Barato,MuitoBarato
+China,CN,ASIA (EX. NEAR EAST),36.0,2.6,1.5,6.05,3.05,49.45,Eastern Asia,Asia,1010740000,1427647786,83.43,Muito,Barato,MuitoBarato
+Colombia,CO,SOUTH AMERICA,60.0,14.0,2.1,49.4,17.3,16.1,South America,Americas,30548252,49661048,12.35,Muito,Caro,MuitoCaro
+Comoros,KM,SUB-SAHARAN AFRICA,25.0,16.05,3.0,482.05,21.9,26.35,Eastern Africa,Africa,69020,832322,,Muito,Caro,MuitoCaro
+Congo,CG,SUB-SAHARAN AFRICA,8.0,14.4,5.0,38.2,9.7,22.85,Middle Africa,Africa,455055,5244359,,Pouco,Caro,PoucoCaro
+Costa Rica,CR,CENTRAL AMERICA,15.0,11.8,8.0,14.7,13.7,24.45,Central America,Americas,3511549,4999441,17.46,Pouco,Caro,PoucoCaro
+Croatia,HR,EASTERN EUROPE,26.0,11.75,1.3,64.6,12.4,20.0,Southern Europe,Europe,2811056,4156405,86.48,Muito,Caro,MuitoCaro
+Cyprus,CY,NEAR EAST,22.0,44.2,10.3,295.5,67.8,101.25,Western Asia,Asia,952369,1189265,75.48,Pouco,Caro,PoucoCaro
+Czech Republic,CZ,EASTERN EUROPE,34.0,40.75,4.7,180.25,39.75,163.55,Eastern Europe,Europe,8358728,10665677,44.55,Muito,Caro,MuitoCaro
+Côte d'Ivoire,CI,SUB-SAHARAN AFRICA,29.0,12.9,5.85,90.3,16.0,30.9,Western Africa,Africa,10650818,25069230,,Muito,Caro,MuitoCaro
+Denmark,DK,WESTERN EUROPE,34.0,3.95,0.0,11.15,4.0,6.8,Northern Europe,Europe,5407278,5752126,105.65,Muito,Barato,MuitoBarato
+Djibouti,DJ,SUB-SAHARAN AFRICA,7.0,5.6,2.35,140.05,5.6,189.6,Eastern Africa,Africa,532849,958923,,Pouco,Barato,PoucoBarato
+Dominica,DM,CARIBBEAN,17.0,8.8,5.55,73.1,24.6,73.0,Caribbean,Americas,51467,71625,,Pouco,Barato,PoucoBarato
+Dominican Republic,DO,CARIBBEAN,22.0,7.55,1.65,90.85,3.7,6.4,Caribbean,Americas,6997472,10627141,20.7,Pouco,Barato,PoucoBarato
+Ecuador,EC,SOUTH AMERICA,19.0,5.3,3.15,15.0,16.2,34.65,South America,Americas,9521056,17084358,17.7,Pouco,Barato,PoucoBarato
+Egypt,EG,NORTHERN AFRICA,40.0,5.2,0.1,11.9,5.45,7.45,Northern Africa,Africa,54740141,98423598,19.73,Muito,Barato,MuitoBarato
+El Salvador,SV,CENTRAL AMERICA,25.0,6.65,2.5,37.5,7.25,22.75,Central America,Americas,1993079,6420746,21.03,Muito,Barato,MuitoBarato
+Equatorial Guinea,GQ,SUB-SAHARAN AFRICA,4.0,248.35,225.8,316.1,63.9,236.95,Middle Africa,Africa,332642,1308975,,Pouco,Caro,PoucoCaro
+Estonia,EE,BALTICS,34.0,6.95,1.75,94.65,6.35,18.35,Northern Europe,Europe,1153786,1322920,55.07,Muito,Barato,MuitoBarato
+Eswatini,SZ,SUB-SAHARAN AFRICA,9.0,11.2,3.45,14.0,66.55,26.25,Southern Africa,Africa,414278,1136281,,Pouco,Caro,PoucoCaro
+Ethiopia,ET,SUB-SAHARAN AFRICA,3.0,8.55,7.05,20.85,12.2,10.3,Eastern Africa,Africa,19543075,109224414,21.08,Pouco,Barato,PoucoBarato
+Falkland Islands,FK,SOUTH AMERICA,4.0,222.8,148.55,411.3,202.05,277.35,South America,Americas,2881,3234,,Pouco,Caro,PoucoCaro
+Faroe Islands,FO,WESTERN EUROPE,11.0,13.2,5.5,819.5,12.05,48.9,Northern Europe,Europe,48097,48497,,Pouco,Caro,PoucoCaro
+Fiji,FJ,OCEANIA,18.0,0.95,0.25,4.25,2.95,17.85,Melanesia,Oceania,452479,883483,25.99,Pouco,Barato,PoucoBarato
+Finland,FI,WESTERN EUROPE,18.0,4.85,1.3,8.15,10.7,5.8,Northern Europe,Europe,4831170,5522576,71.23,Pouco,Barato,PoucoBarato
+France,FR,WESTERN EUROPE,45.0,2.05,0.45,591.0,4.05,6.05,Western Europe,Europe,59470000,64990511,60.94,Muito,Barato,MuitoBarato
+French Polynesia,PF,OCEANIA,30.0,21.0,8.25,263.3,77.1,24.8,Polynesia,Oceania,205746,277679,,Muito,Caro,MuitoCaro
+Gabon,GA,SUB-SAHARAN AFRICA,52.0,24.1,5.3,90.3,24.45,16.95,Middle Africa,Africa,1040000,2119275,,Muito,Caro,MuitoCaro
+Gambia,GM,SUB-SAHARAN AFRICA,31.0,29.3,11.85,488.55,25.5,34.45,Western Africa,Africa,416753,2280094,,Muito,Caro,MuitoCaro
+Georgia,GE,CIS (FORMER USSR),20.0,9.0,1.5,39.9,4.65,28.15,Western Asia,Asia,3446533,4002942,30.67,Pouco,Barato,PoucoBarato
+Germany,DE,WESTERN EUROPE,60.0,16.9,1.75,59.15,20.3,34.8,Western Europe,Europe,77794405,83124418,55.7,Muito,Caro,MuitoCaro
+Ghana,GH,SUB-SAHARAN AFRICA,34.0,3.3,0.85,17.35,4.7,7.8,Western Africa,Africa,15065541,29767102,8.44,Muito,Barato,MuitoBarato
+Gibraltar,GI,WESTERN EUROPE,5.0,13.9,8.35,14.9,36.9,15.5,Southern Europe,Europe,32494,33718,,Pouco,Caro,PoucoCaro
+Greece,GR,WESTERN EUROPE,22.0,40.8,5.3,3844.35,60.3,24.55,Southern Europe,Europe,7923438,10522246,59.42,Pouco,Caro,PoucoCaro
+Greenland,GL,NORTHERN AMERICA,3.0,19.85,11.1,57.15,47.8,55.6,Northern America,Americas,39242,56564,,Pouco,Caro,PoucoCaro
+Grenada,GD,CARIBBEAN,13.0,12.2,9.2,22.2,26.85,60.0,Caribbean,Americas,63692,111454,,Pouco,Caro,PoucoCaro
+Guam,GU,OCEANIA,23.0,10.7,5.0,350.0,10.0,21.3,Micronesia,Oceania,132221,165768,,Pouco,Caro,PoucoCaro
+Guatemala,GT,CENTRAL AMERICA,24.0,9.7,6.45,25.7,10.85,24.2,Central America,Americas,11750000,17247849,17.3,Pouco,Barato,PoucoBarato
+Guinea,GN,SUB-SAHARAN AFRICA,19.0,9.95,3.95,24.8,10.4,22.65,Western Africa,Africa,1449758,12414293,,Pouco,Barato,PoucoBarato
+Guinea-Bissau,GW,SUB-SAHARAN AFRICA,9.0,22.05,11.25,180.6,20.6,58.55,Western Africa,Africa,73148,1874303,,Pouco,Caro,PoucoCaro
+Guyana,GY,SOUTH AMERICA,17.0,26.25,19.1,47.6,27.3,61.5,South America,Americas,290375,779006,,Pouco,Caro,PoucoCaro
+Haiti,HT,CARIBBEAN,13.0,4.25,1.35,9.5,13.7,6.25,Caribbean,Americas,1353986,11123178,12.49,Pouco,Barato,PoucoBarato
+Honduras,HN,CENTRAL AMERICA,22.0,7.8,3.45,250.0,15.6,23.45,Central America,Americas,2977793,9587522,20.73,Pouco,Barato,PoucoBarato
+Hungary,HU,EASTERN EUROPE,21.0,8.5,0.8,40.2,26.6,14.55,Eastern Europe,Europe,7461297,9707499,41.32,Pouco,Barato,PoucoBarato
+Iceland,IS,WESTERN EUROPE,20.0,6.15,0.8,86.45,7.3,18.9,Northern Europe,Europe,329196,336713,,Pouco,Barato,PoucoBarato
+India,IN,ASIA (EX. NEAR EAST),58.0,3.4,0.25,13.65,0.45,1.3,Southern Asia,Asia,833710000,1352642280,13.67,Muito,Barato,MuitoBarato
+Indonesia,ID,ASIA (EX. NEAR EAST),53.0,2.1,0.85,14.7,3.2,14.95,South-eastern Asia,Asia,196000000,267670543,17.7,Muito,Barato,MuitoBarato
+Iran,IR,ASIA (EX. NEAR EAST),52.0,7.6,1.1,31.05,3.75,9.4,Western Asia,Asia,78086663,81800188,24.9,Muito,Barato,MuitoBarato
+Iraq,IQ,NEAR EAST,33.0,5.7,3.4,136.75,21.0,40.0,Western Asia,Asia,18892351,38433600,39.9,Muito,Barato,MuitoBarato
+Ireland,IE,WESTERN EUROPE,12.0,7.1,0.65,58.2,6.8,19.75,Northern Europe,Europe,4024552,4818690,30.16,Pouco,Barato,PoucoBarato
+Israel,IL,NEAR EAST,27.0,0.25,0.1,104.75,0.55,4.5,Western Asia,Asia,6788737,8381516,28.01,Muito,Barato,MuitoBarato
+Italy,IT,WESTERN EUROPE,29.0,1.35,0.45,17.7,2.15,8.65,Southern Europe,Europe,50540000,60627291,37.15,Muito,Barato,MuitoBarato
+Jamaica,JM,CARIBBEAN,11.0,13.7,4.3,48.0,19.4,12.15,Caribbean,Americas,1409888,2934847,30.84,Pouco,Caro,PoucoCaro
+Japan,JP,ASIA (EX. NEAR EAST),35.0,16.9,4.4,227.65,19.55,52.0,Eastern Asia,Asia,117400000,127202192,44.05,Muito,Caro,MuitoCaro
+Jordan,JO,NEAR EAST,42.0,7.05,1.2,35.25,5.15,8.95,Western Asia,Asia,6480202,9965318,19.47,Muito,Barato,MuitoBarato
+Kazakhstan,KZ,CIS (FORMER USSR),19.0,2.95,1.25,11.75,2.3,2.45,Central Asia,Asia,13913699,18319618,18.71,Pouco,Barato,PoucoBarato
+Kenya,KE,SUB-SAHARAN AFRICA,50.0,11.25,1.3,54.65,5.25,13.65,Eastern Africa,Africa,8861485,51392565,16.93,Muito,Caro,MuitoCaro
+Kiribati,KI,OCEANIA,28.0,49.7,11.75,114.35,52.5,55.25,Micronesia,Oceania,16971,115847,,Muito,Caro,MuitoCaro
+Kuwait,KW,NEAR EAST,42.0,4.05,0.05,31.45,3.85,10.05,Western Asia,Asia,4053797,4137312,96.23,Muito,Barato,MuitoBarato
+Kyrgyzstan,KG,CIS (FORMER USSR),20.0,0.75,0.5,35.4,1.05,1.35,Central Asia,Asia,2309235,6304030,16.3,Pouco,Barato,PoucoBarato
+Latvia,LV,BALTICS,22.0,17.45,1.45,354.35,18.95,90.6,Northern Europe,Europe,1585471,1928459,41.6,Pouco,Caro,PoucoCaro
+Lebanon,LB,NEAR EAST,15.0,24.05,6.05,388.5,19.1,29.2,Western Asia,Asia,4755187,6859408,16.38,Pouco,Caro,PoucoCaro
+Lebanon,LB,NEAR EAST,15.0,24.05,6.05,388.5,19.1,29.2,Western Asia,Asia,4755187,6859408,16.38,Pouco,Caro,PoucoCaro
+Lesotho,LS,SUB-SAHARAN AFRICA,27.0,13.3,6.45,45.1,10.65,35.95,Southern Africa,Africa,665312,2108328,,Muito,Caro,MuitoCaro
+Liberia,LR,SUB-SAHARAN AFRICA,40.0,12.95,7.75,100.0,16.25,18.75,Western Africa,Africa,377607,4818973,,Muito,Caro,MuitoCaro
+Libya,LY,NORTHERN AFRICA,16.0,3.7,0.0,11.1,23.65,24.35,Northern Africa,Africa,1387116,6678559,10.4,Pouco,Barato,PoucoBarato
+Liechtenstein,LI,WESTERN EUROPE,17.0,15.5,0.95,120.3,20.05,39.95,Western Europe,Europe,37201,37910,,Pouco,Caro,PoucoCaro
+Lithuania,LT,BALTICS,23.0,6.9,0.45,88.75,9.25,10.3,Northern Europe,Europe,2243448,2801264,50.13,Pouco,Barato,PoucoBarato
+Luxembourg,LU,WESTERN EUROPE,20.0,15.0,7.1,35.5,19.45,69.75,Western Europe,Europe,570794,604245,82.85,Pouco,Caro,PoucoCaro
+Madagascar,MG,SUB-SAHARAN AFRICA,36.0,25.7,3.3,250.45,44.05,36.2,Eastern Africa,Africa,2505948,26262313,,Muito,Caro,MuitoCaro
+Malawi,MW,SUB-SAHARAN AFRICA,5.0,127.3,101.85,127.3,137.05,17.95,Eastern Africa,Africa,2566126,18143217,17.95,Pouco,Caro,PoucoCaro
+Malaysia,MY,ASIA (EX. NEAR EAST),60.0,4.45,0.6,36.3,5.6,8.3,South-eastern Asia,Asia,25343685,31528033,25.87,Muito,Barato,MuitoBarato
+Maldives,MV,ASIA (EX. NEAR EAST),23.0,16.2,9.25,64.75,19.4,28.95,Southern Asia,Asia,275717,515696,47.93,Pouco,Caro,PoucoCaro
+Mali,ML,SUB-SAHARAN AFRICA,42.0,16.4,6.0,848.95,20.6,61.85,Western Africa,Africa,2358540,19077749,,Muito,Caro,MuitoCaro
+Malta,MT,WESTERN EUROPE,27.0,10.05,4.1,295.2,18.1,65.5,Southern Europe,Europe,344970,439248,49.66,Muito,Barato,MuitoBarato
+Mauritania,MR,NORTHERN AFRICA,13.0,27.8,13.9,69.55,23.15,47.45,Western Africa,Africa,919398,4403313,,Pouco,Caro,PoucoCaro
+Mauritius,MU,SUB-SAHARAN AFRICA,18.0,3.75,0.2,32.45,12.4,2.55,Eastern Africa,Africa,702911,1267185,18.09,Pouco,Barato,PoucoBarato
+Mexico,MX,CENTRAL AMERICA,45.0,18.1,6.0,60.3,23.85,75.25,Northern America,Americas,92010000,128972439,29.81,Muito,Caro,MuitoCaro
+Moldova,MD,EASTERN EUROPE,18.0,1.6,0.35,13.95,5.6,14.1,Eastern Europe,Europe,3083783,4051944,29.46,Pouco,Barato,PoucoBarato
+Monaco,MC,WESTERN EUROPE,3.0,5.4,4.2,11.85,4.9,6.05,Western Europe,Europe,37553,38682,,Pouco,Barato,PoucoBarato
+Mongolia,MN,ASIA (EX. NEAR EAST),42.0,3.0,1.1,18.5,3.7,4.1,Eastern Asia,Asia,729236,3170216,16.69,Muito,Barato,MuitoBarato
+Montenegro,ME,EASTERN EUROPE,21.0,10.6,0.7,29.5,19.7,14.15,Southern Europe,Europe,505055,627809,41.93,Pouco,Caro,PoucoCaro
+Montserrat,MS,CARIBBEAN,12.0,20.05,5.55,146.15,41.65,24.6,Caribbean,Americas,2833,4993,,Pouco,Caro,PoucoCaro
+Morocco,MA,NORTHERN AFRICA,24.0,4.4,2.2,27.5,4.95,8.3,Northern Africa,Africa,22072765,36029093,27.84,Pouco,Barato,PoucoBarato
+Mozambique,MZ,SUB-SAHARAN AFRICA,19.0,13.95,0.95,34.9,16.65,64.1,Eastern Africa,Africa,6162217,29496004,15.66,Pouco,Caro,PoucoCaro
+Myanmar,MM,ASIA (EX. NEAR EAST),35.0,3.9,0.0,70.75,3.9,4.35,South-eastern Asia,Asia,16374103,53708320,24.06,Muito,Barato,MuitoBarato
+Namibia,,SUB-SAHARAN AFRICA,33.0,111.85,6.0,360.3,23.9,55.1,Southern Africa,Africa,933450,2448301,18.43,Muito,Caro,MuitoCaro
+Nauru,NR,OCEANIA,1.0,38.1,38.1,38.1,152.35,140.65,Micronesia,Oceania,6475,10670,,Pouco,Caro,PoucoCaro
+Nepal,NP,ASIA (EX. NEAR EAST),35.0,3.05,1.1,13.3,4.3,11.25,Southern Asia,Asia,16190000,28095714,16.45,Muito,Barato,MuitoBarato
+New Caledonia,NC,OCEANIA,14.0,32.45,10.5,1050.8,24.05,36.05,Melanesia,Oceania,226557,279993,,Pouco,Caro,PoucoCaro
+New Zealand,NZ,OCEANIA,36.0,34.95,6.1,139.9,30.3,48.95,"Australia, New Zealand",Oceania,4273353,4743131,49.49,Muito,Caro,MuitoCaro
+Nicaragua,NI,CENTRAL AMERICA,30.0,4.7,0.1,14.1,8.55,329.15,Central America,Americas,1732218,6465501,18.3,Muito,Barato,MuitoBarato
+Niger,NE,SUB-SAHARAN AFRICA,22.0,6.4,2.35,60.2,16.5,127.6,Western Africa,Africa,2194985,22442831,,Pouco,Barato,PoucoBarato
+Nigeria,NG,SUB-SAHARAN AFRICA,60.0,4.4,0.15,26.25,6.95,39.55,Western Africa,Africa,136203231,195874685,18.92,Muito,Barato,MuitoBarato
+Niue,NU,OCEANIA,10.0,36.85,22.4,143.45,22.5,46.0,Polynesia,Oceania,1034,1620,,Pouco,Caro,PoucoCaro
+Norway,NO,WESTERN EUROPE,21.0,29.05,8.7,145.15,26.4,26.65,Northern Europe,Europe,5120225,5337962,134.73,Pouco,Caro,PoucoCaro
+Oman,OM,NEAR EAST,60.0,10.6,0.65,43.35,22.9,56.4,Western Asia,Asia,3717818,4829473,44.47,Muito,Caro,MuitoCaro
+Pakistan,PK,ASIA (EX. NEAR EAST),60.0,2.95,0.3,42.95,3.45,9.25,Southern Asia,Asia,118800000,213756286,16.73,Muito,Barato,MuitoBarato
+Panama,PA,CENTRAL AMERICA,8.0,22.45,10.0,37.4,33.45,23.45,Central America,Americas,2371852,4176869,17.03,Pouco,Caro,PoucoCaro
+Papua New Guinea,PG,OCEANIA,18.0,11.3,3.55,48.05,27.0,60.7,Melanesia,Oceania,924955,8606323,,Pouco,Caro,PoucoCaro
+Paraguay,PY,SOUTH AMERICA,27.0,12.65,3.65,45.6,11.5,57.8,South America,Americas,4160340,6956066,15.15,Muito,Caro,MuitoCaro
+Peru,PE,SOUTH AMERICA,49.0,5.75,4.25,77.9,10.65,12.4,South America,Americas,15674241,31989260,15.64,Muito,Barato,MuitoBarato
+Philippines,PH,ASIA (EX. NEAR EAST),30.0,8.85,4.75,41.05,7.1,15.8,South-eastern Asia,Asia,73003313,106651394,19.48,Muito,Barato,MuitoBarato
+Poland,PL,EASTERN EUROPE,60.0,3.2,0.15,115.1,3.5,6.6,Eastern Europe,Europe,34697848,37921592,40.14,Muito,Barato,MuitoBarato
+Portugal,PT,WESTERN EUROPE,21.0,19.25,5.9,70.75,24.85,69.9,Southern Europe,Europe,7622142,10256193,64.3,Pouco,Caro,PoucoCaro
+Qatar,QA,NEAR EAST,9.0,16.0,5.5,21.95,20.6,62.85,Western Asia,Asia,2532059,2781682,120.69,Pouco,Caro,PoucoCaro
+Romania,RO,EASTERN EUROPE,16.0,5.9,0.55,59.15,5.15,9.45,Eastern Europe,Europe,12545558,19506114,36.9,Pouco,Barato,PoucoBarato
+Rwanda,RW,SUB-SAHARAN AFRICA,47.0,6.25,1.75,115.5,7.4,18.95,Eastern Africa,Africa,2657770,12301970,,Muito,Barato,MuitoBarato
+Saint Kitts and Nevis,KN,CARIBBEAN,16.0,18.5,9.25,122.1,55.35,74.5,Caribbean,Americas,44669,52441,,Pouco,Caro,PoucoCaro
+Saint Lucia,LC,CARIBBEAN,14.0,13.1,7.3,22.2,16.35,24.2,Caribbean,Americas,90889,181889,,Pouco,Caro,PoucoCaro
+Saint Vincent and the Grenadines,VC,CARIBBEAN,13.0,12.05,7.4,16.65,16.65,17.9,Caribbean,Americas,72048,110211,,Pouco,Caro,PoucoCaro
+Samoa,WS,OCEANIA,42.0,2.8,0.95,34.3,54.3,150.45,Polynesia,Oceania,66023,196129,,Muito,Barato,MuitoBarato
+San Marino,SM,WESTERN EUROPE,2.0,2.15,1.2,3.15,5.8,34.3,Southern Europe,Europe,20100,33785,,Pouco,Barato,PoucoBarato
+Saudi Arabia,SA,NEAR EAST,60.0,7.35,1.65,66.65,10.6,28.1,Western Asia,Asia,27048861,33702756,102.79,Muito,Barato,MuitoBarato
+Senegal,SN,SUB-SAHARAN AFRICA,35.0,4.7,1.5,30.1,16.5,16.4,Western Africa,Africa,4698108,15854323,21.44,Muito,Barato,MuitoBarato
+Serbia,RS,EASTERN EUROPE,38.0,6.5,0.85,70.45,8.0,24.15,Southern Europe,Europe,6182411,8802754,45.81,Muito,Barato,MuitoBarato
+Seychelles,SC,SUB-SAHARAN AFRICA,21.0,43.2,11.8,113.35,57.15,97.75,Eastern Africa,Africa,55677,97096,,Pouco,Caro,PoucoCaro
+Sierra Leone,SL,SUB-SAHARAN AFRICA,21.0,16.3,10.85,22.0,18.45,46.1,Western Africa,Africa,1000575,7650150,,Pouco,Caro,PoucoCaro
+Singapore,SG,ASIA (EX. NEAR EAST),35.0,5.45,1.25,371.6,12.35,14.35,South-eastern Asia,Asia,4821119,5757499,67.99,Muito,Barato,MuitoBarato
+Slovakia,SK,EASTERN EUROPE,45.0,17.75,5.2,177.5,19.2,36.9,Eastern Europe,Europe,4446926,5453014,33.44,Muito,Caro,MuitoCaro
+Slovenia,SI,EASTERN EUROPE,28.0,8.6,0.1,443.4,7.4,11.05,Southern Europe,Europe,1640893,2077837,54.57,Muito,Barato,MuitoBarato
+Solomon Islands,SB,OCEANIA,22.0,39.15,15.7,62.75,42.65,41.85,Melanesia,Oceania,72872,652857,,Pouco,Caro,PoucoCaro
+Somalia,SO,SUB-SAHARAN AFRICA,27.0,3.0,0.9,33.35,2.5,30.95,Eastern Africa,Africa,294851,15008226,7.95,Muito,Barato,MuitoBarato
+South Africa,ZA,SUB-SAHARAN AFRICA,60.0,13.35,0.6,174.75,21.5,38.85,Southern Africa,Africa,31858027,57792518,33.62,Muito,Caro,MuitoCaro
+South Korea,KR,ASIA (EX. NEAR EAST),18.0,23.6,0.3,484.4,54.7,46.05,Eastern Asia,Asia,49421084,51171706,117.95,Pouco,Caro,PoucoCaro
+Spain,ES,WESTERN EUROPE,44.0,6.2,2.85,289.9,9.05,2.8,Southern Europe,Europe,42400756,46692858,34.26,Muito,Barato,MuitoBarato
+Sri Lanka,LK,ASIA (EX. NEAR EAST),60.0,1.9,0.0,27.65,2.55,3.9,Southern Asia,Asia,7121116,21228763,13.15,Muito,Barato,MuitoBarato
+Sudan,SD,SUB-SAHARAN AFRICA,33.0,1.35,0.15,4.6,3.15,3.4,Northern Africa,Africa,12512639,41801533,9.5,Muito,Barato,MuitoBarato
+Suriname,SR,SOUTH AMERICA,12.0,9.7,8.6,13.65,24.6,30.4,South America,Americas,275785,575990,40.7,Pouco,Barato,PoucoBarato
+Sweden,SE,WESTERN EUROPE,58.0,7.25,1.0,375.4,10.35,18.3,Northern Europe,Europe,9554907,9971638,73.61,Muito,Barato,MuitoBarato
+Switzerland,CH,WESTERN EUROPE,14.0,26.2,8.0,89.15,41.9,101.1,Western Europe,Europe,7942864,8525611,82.29,Pouco,Caro,PoucoCaro
+Syria,SY,NEAR EAST,14.0,35.75,0.95,194.0,32.75,20.7,Western Asia,Asia,6257430,16945057,13.24,Pouco,Caro,PoucoCaro
+São Tomé and Príncipe,ST,SUB-SAHARAN AFRICA,16.0,154.85,66.35,608.25,141.3,26.65,Middle Africa,Africa,61155,211028,,Pouco,Caro,PoucoCaro
+Taiwan,TW,ASIA (EX. NEAR EAST),42.0,28.35,2.1,233.35,29.55,60.1,Eastern Asia,Asia,21920626,23726460,53.93,Muito,Caro,MuitoCaro
+Tajikistan,TJ,CIS (FORMER USSR),22.0,13.0,4.35,65.6,23.25,20.5,Central Asia,Asia,1959127,9100835,7.05,Pouco,Caro,PoucoCaro
+Tanzania,TZ,SUB-SAHARAN AFRICA,60.0,3.75,1.4,21.55,3.65,18.55,Eastern Africa,Africa,30000000,56313438,10.39,Muito,Barato,MuitoBarato
+Thailand,TH,ASIA (EX. NEAR EAST),60.0,5.3,1.7,51.6,6.15,13.9,South-eastern Asia,Asia,54043108,69428453,33.49,Muito,Barato,MuitoBarato
+Togo,TG,SUB-SAHARAN AFRICA,18.0,23.45,10.15,203.2,22.5,75.6,Western Africa,Africa,963795,7889093,34.42,Pouco,Caro,PoucoCaro
+Tonga,TO,OCEANIA,2.0,6.4,5.45,7.3,17.05,14.6,Polynesia,Oceania,44558,103197,,Pouco,Barato,PoucoBarato
+Trinidad and Tobago,TT,CARIBBEAN,12.0,9.5,1.05,715.9,29.6,13.45,Caribbean,Americas,1058744,1389843,28.37,Pouco,Barato,PoucoBarato
+Tunisia,TN,NORTHERN AFRICA,25.0,5.45,1.65,18.15,6.85,18.35,Northern Africa,Africa,6400330,11565201,22.64,Muito,Barato,MuitoBarato
+Turkey,TR,NEAR EAST,60.0,3.15,0.25,11.3,3.6,11.25,Southern Europe,Europe,69945905,82340088,30.48,Muito,Barato,MuitoBarato
+Turkmenistan,TM,CIS (FORMER USSR),4.0,107.05,35.7,152.2,57.2,99.05,Central Asia,Asia,1223591,5850901,,Pouco,Caro,PoucoCaro
+Uganda,UG,SUB-SAHARAN AFRICA,60.0,7.8,2.25,113.55,8.1,25.1,Eastern Africa,Africa,10162807,42729036,15.99,Muito,Barato,MuitoBarato
+Ukraine,UA,CIS (FORMER USSR),19.0,3.75,0.7,179.4,2.3,29.65,Eastern Europe,Europe,31100000,44246156,15.62,Pouco,Barato,PoucoBarato
+United Arab Emirates,AE,NEAR EAST,51.0,38.1,4.0,171.5,18.9,51.15,Western Asia,Asia,8913217,9630959,135.35,Muito,Caro,MuitoCaro
+United Kingdom,GB,WESTERN EUROPE,60.0,7.1,0.55,356.45,6.95,33.3,Northern Europe,Europe,65001016,67141684,48.1,Muito,Barato,MuitoBarato
+United States,US,NORTHERN AMERICA,45.0,16.65,5.0,150.0,40.0,41.7,Northern America,Americas,312320000,327096265,61.12,Muito,Caro,MuitoCaro
+Uruguay,UY,SOUTH AMERICA,35.0,7.55,0.5,31.65,7.9,14.0,South America,Americas,2360269,3449285,34.43,Muito,Barato,MuitoBarato
+Uzbekistan,UZ,CIS (FORMER USSR),60.0,3.0,0.05,118.75,6.7,16.35,Central Asia,Asia,16692456,32476244,13.27,Muito,Barato,MuitoBarato
+Vietnam,VN,ASIA (EX. NEAR EAST),46.0,2.45,0.35,27.75,2.85,6.55,South-eastern Asia,Asia,68172134,95545962,33.9,Muito,Barato,MuitoBarato
+Yemen,YE,NEAR EAST,17.0,79.9,2.0,199.7,79.9,78.65,Western Asia,Asia,7548512,28498683,16.89,Pouco,Caro,PoucoCaro
+Zambia,ZM,SUB-SAHARAN AFRICA,60.0,5.65,0.05,34.0,6.8,11.25,Eastern Africa,Africa,4760715,17351708,10.36,Muito,Barato,MuitoBarato
